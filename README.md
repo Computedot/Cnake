@@ -6,3 +6,7 @@ To compile the code yourself (using gcc):
 
 Make sure you have ncurses installed:
 ```sudo dnf install ncurses-base ncurses-devel ncurses-libs```
+<img width="226" height="417" alt="Screenshot_20251128_214613" src="https://github.com/user-attachments/assets/2fb81dd6-8223-45b7-91a4-316525f04a95" />
+<img width="224" height="417" alt="Screenshot_20251128_214749" src="https://github.com/user-attachments/assets/c72e786b-186e-45a1-87fc-490f71c54df4" />
+
+In reality the game doesnt take up all the screen, instead it only uses the to top-left part of it. That's something I will have to fix in the future
